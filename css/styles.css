@@ -991,6 +991,10 @@ button {
   height: 40px;
   border-radius: 100%;
   fill: #edfffc;
+  background-color: #edfffc;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .footer-logo-container-list-item-svg {
   stroke-width: 2px;
